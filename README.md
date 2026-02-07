@@ -8,7 +8,7 @@ Apasionado por la ingeniería de software y el desarrollo de soluciones escalabl
 - 🚀 **Tecnologías principales:** Java (Spring Boot), PHP (Symfony), Angular y React.
 - 💾 **Bases de datos:** Experto en Oracle, MySQL y MariaDB.
 - 🛠️ **Sistemas:** Trabajo fluido en entornos Ubuntu/Linux.
-- 📫 Cómo contactarme: [Tu LinkedIn]
+- 📫 Cómo contactarme: aramayosebas10@gmail.com
 
 ### 🛠️ Tech Stack
 **Backend:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
