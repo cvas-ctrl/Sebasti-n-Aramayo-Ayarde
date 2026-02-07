@@ -1,12 +1,12 @@
-# Hola, soy Sebastian 👋
+# Hi, I'm Sebastian 👋
 ### Software Engineer | Full Stack Developer
 
-Apasionado por la ingeniería de software y el desarrollo de soluciones escalables.
+Passionate about Software Engineering and building scalable, high-performance solutions. Currently focused on modern architectures with **Spring Boot**, **Angular**, and **Cloud ecosystems**.
 
-- 🚀 **Tecnologías principales:** Java (Spring Boot), Python (Django), PHP (Symfony), Angular y React.
-- 💾 **Bases de datos:** Oracle, PostgreSQL, MySQL y MongoDB (NoSQL).
-- 🛠️ **Sistemas & DevOps:** Trabajo fluido en entornos Ubuntu/Linux y control de versiones con Git/GitHub.
-- 📫 Cómo contactarme: aramayosebas10@gmail.com
+- 🚀 **Core Technologies:** Java (Spring Boot), Python (Django), PHP (Symfony), Angular, and React.
+- 💾 **Databases:** Experienced with Oracle, PostgreSQL, MySQL, and MongoDB (NoSQL).
+- 🛠️ **Systems & DevOps:** Proficient in Ubuntu/Linux environments and version control with Git/GitHub.
+- 📫 How to reach me: aramayosebas10@gmail.com
 
 ---
 
